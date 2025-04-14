@@ -88,5 +88,6 @@ TensorFlow is a powerful open-source library for machine learning and deep learn
 
 Feel inspired to improve this project? Have a better way to rhyme with "orange"? Open a pull request or start a discussion! Contributions and feedback are always welcome.
 
+dataset :https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt
 
 Now, go forth and generate poetry that even Shakespeare himself would envy. Happy coding and may the Bard be with you! 🪶
